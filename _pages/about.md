@@ -1,19 +1,14 @@
 ---
 permalink: /
-title: "home paige"
+title: "hi, i'm paige!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## hi, i'm paige!
-
 recent graduate from the University of California San Diego 
-
 majored in Data Science and minored in Cognitive Science
-
-currently working as an intern at the [San Diego Association of Governments](https://www.sandag.org) on the Data Science, Management, and 
-Analytics team!
+currently working as an intern at the [San Diego Association of Governments](https://www.sandag.org) on the Data Science, Management, and Analytics team!
 
 experience
 ======
