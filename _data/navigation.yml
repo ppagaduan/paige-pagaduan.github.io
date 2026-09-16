@@ -8,17 +8,26 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Resume"
+  - title: "resume"
     url: /files/PaigePagaduan_Resume.pdf
     
-  - title: "Portfolio"
+  - title: "portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "posts"
     url: /year-archive/
-    
+
   # - title: "CV"
   #   url: /cv-json/
     
   # - title: "Guide"
   #   url: /markdown/
+
+  # - title: "Publications"
+  #   url: /publications/
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
